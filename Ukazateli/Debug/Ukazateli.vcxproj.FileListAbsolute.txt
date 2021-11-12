@@ -1,0 +1,3 @@
+C:\Users\student.KR\source\repos\Ukazateli\Debug\Ukazateli.exe
+C:\Users\student.KR\source\repos\Ukazateli\Debug\Ukazateli.pdb
+C:\Users\User\Desktop\Ukazateli\Debug\Ukazateli.exe

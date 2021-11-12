@@ -1,0 +1,5 @@
+3 count of lines
+5 count of digit
+23 count of str
+6 count vowels
+ 5 count consonants
